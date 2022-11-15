@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hesther38&show_icons=true&theme=cobalt)](https://solved.ac/hesther38/)
 
 ## Languages & Tools of My Repos
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesthers&layout=compact)](https://github.com/hesthers/hesthers)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesthers&layout=compact&langs_count=10)](https://github.com/hesthers/hesthers)
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
