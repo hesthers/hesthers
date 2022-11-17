@@ -33,3 +33,7 @@ Here are some ideas to get you started:
 ## Contact to Me!
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:h2esthers@gmail.com)](mailto:h2esthers@gmail.com)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://xixihesther38.notion.site/Heeseo-Sohn-a6c85bd2bfe9410e9370c7fc16e21a1c)](https://xixihesther38.notion.site/Heeseo-Sohn-a6c85bd2bfe9410e9370c7fc16e21a1c)
+
+## Project Portfolio Link (Korean Ver.)
+$$\downarrow\downarrow\downarrow$$
+https://drive.google.com/file/d/1O4Kien4RFaNiuUy9H_ddAJfD1OeY1OFR/view?usp=sharing
